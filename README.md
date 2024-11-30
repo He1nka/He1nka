@@ -1,7 +1,7 @@
 ## Olá! Meu nome é Cauã!
 
-- 🔭 Atualmente sou Desenvolvedor Back-End freelancer e estou cursando Ciência da computação
-- 🌱 Estou aprendendo Python, Java e C# 
+- 🔭 Atualmente estou cursando Ciência da computação
+- 🌱 Estou aprendendo Python, Java, C# e Javascript
 - 😄 Pronouns: Ele/Dele
 
 <a href="https://github.com/He1nka/">
@@ -15,7 +15,8 @@
  <div style="display: inline_block"><br>
   <img align="center" alt="Caua-Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Caua-Csharp" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Caua-Csharp" height="50" width="60" src=https://cdn-icons-png.flaticon.com/128/5968/5968282.png>
+  <img align="center" alt="Caua-Csharp" height="50" width="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png">
+  <img align="center" alt="Caua-Javascript" height="50" width="60" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png">
 </div>
 
  ##
